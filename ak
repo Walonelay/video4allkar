@@ -3,6 +3,7 @@
 "able":true,
 "openads":"ca-app-pub-3940256099942544/3419835294", 
 "banner":"ca-app-pub-3940256099942544/6300978111", 
+"reward":"ca-app-pub-3940256099942544/5224354917", 
 "title":"Updated Version 1.8.1",
 "main":"https://apkguidemm.net/lee/", 
 "about":"ယခု ဗားရှင်းမှာ အမျိုးအစားအလိုက် ဇာတ်ကားတွ ကြည့်ရှူ့နိုင်ဖို့ ထပ်မံ ဖြည့်တိုးထားပါတယ်
