@@ -1,8 +1,8 @@
 { 
 "boo":true,
 "able":true,
-"openads":"ca-app-pub-3940256099942544/3419835294", 
-"banner":"ca-app-pub-3940256099942544/6300978111", 
+"openads":"ca-app-pub-8841289226244835/4775183526", 
+"banner":"ca-app-pub-8841289226244835/3009292828", 
 "reward":"ca-app-pub-3940256099942544/5224354917", 
 "title":"Updated Version 1.8.1",
 "main":"https://apkguidemm.net/lee/", 
@@ -11,4 +11,4 @@
 "update":"com.apyar.ffourmovies", 
 "version":1, 
 "adtype":1,
-"interstial":"ca-app-pub-3940256099942544/1033173712" }
+"interstial":"ca-app-pub-8841289226244835/8714428539" }
