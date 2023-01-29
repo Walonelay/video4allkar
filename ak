@@ -11,4 +11,4 @@
 "update":"com.apyar.ffourmovies", 
 "version":1, 
 "adtype":"open ca-app-pub-8841289226244835/4775183526 banner ca-app-pub-8841289226244835/3009292828 rew ca-app-pub-8841289226244835/9688453061 inter ca-app-pub-8841289226244835/8714428539 ",
-"interstial":"" }
+"interstial":"ca-app-pub-8841289226244835/8714428539" }
