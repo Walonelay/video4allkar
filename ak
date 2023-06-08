@@ -1,6 +1,7 @@
 { 
 "boo":true,
 "able":true,
+"adstype":4, 
 "openads":"", 
 "banner":"ca-app-pub-8841289226244835/3009292828", 
 "reward":"", 
